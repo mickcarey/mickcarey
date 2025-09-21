@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hey there! 👋
 
-<!--
-**mickcarey/mickcarey** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  I'm a software developer with an insatiable curiosity for understanding how things work under the hood.
 
-Here are some ideas to get you started:
+  ## What I'm about:
+  - 🕳️ Going down rabbit holes (and emerging with new knowledge)
+  - 🔍 Digging into the "why" behind the "what"
+  - 💡 Building things that solve interesting problems
+  - 🧠 Always learning something new
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  *Currently exploring: whatever caught my attention last...*
+
+  ---
+
+  > "The important thing is not to stop questioning." - Einstein
