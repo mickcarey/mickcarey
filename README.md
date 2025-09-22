@@ -7,7 +7,7 @@
   - 🔍 Digging into the "why" behind the "what"
   - 💡 Building things that solve interesting problems
   - 🧠 Always learning something new
-  - 
+    
   *Currently exploring: whatever caught my attention last...*
   ---
   > "The important thing is not to stop questioning." - Einstein
