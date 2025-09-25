@@ -12,4 +12,4 @@
   ---
   > "The important thing is not to stop questioning." - Einstein
 
-[Learn more about me](https://www.michaelcarey.com.au/about-me)
+[Learn more about me](https://about.michaelcarey.com.au)
