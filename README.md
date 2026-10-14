@@ -1,15 +1,15 @@
 # Hey there! 👋
 
-  I'm a software developer with an insatiable curiosity for understanding how things work under the hood.
+  I'm a software developer who's curious about how the world works.
   
-  ## What I'm about:
-  - 🕳️ Going down rabbit holes (and emerging with new knowledge)
-  - 🔍 Digging into the "why" behind the "what"
-  - 💡 Building things that solve interesting problems
-  - 🧠 Always learning something new
+  ## A little about me
+  - 🕳️ Happily getting lost down rabbit holes
+  - 🔍 Understanding the "why" behind the "what"
+  - 💡 Building things, just to see if I can
+  - 🧠 Exploring ideas, learning, and experimenting
     
-  *Currently exploring: whatever caught my attention last...*
+  *Currently exploring: whatever caught my curiosity lately.*
   ---
-  > "The important thing is not to stop questioning." - Einstein
+  > "What I cannot create, I do not understand." - Richard Feynman
 
-[Visit my very basic personal website](https://michaelcarey.com.au)
+[Visit my basic personal website](https://michaelcarey.com.au)
