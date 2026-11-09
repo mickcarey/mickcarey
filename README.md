@@ -9,7 +9,6 @@
   - 🧠 Exploring ideas, learning, and experimenting
     
   *Currently exploring: whatever caught my curiosity lately.*
-  ---
-  > "What I cannot create, I do not understand." - Richard Feynman
+
 
 [Visit my basic personal website](https://michaelcarey.com.au)
